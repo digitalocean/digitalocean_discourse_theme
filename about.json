@@ -1,0 +1,19 @@
+{
+  "name": "DigitalOcean Discourse Theme",
+  "about_url": "https://github.com/ruf-io/digitalocean_discourse_theme/",
+  "license_url": "https://github.com/ruf-io/digitalocean_discourse_theme/blob/master/LICENSE.txt",
+  "color_schemes": {
+    "DigitalOcean Modern": {
+      "primary": "4a4a4a",
+      "secondary": "f6f8fa",
+      "tertiary": "0F69FF",
+      "quaternary": "0F69FF",
+      "header_background": "ffffff",
+      "header_primary": "333",
+      "highlight": "f4f2d4",
+      "danger": "f25041",
+      "success": "00cd8d",
+      "love": "fa6c8d"
+    }
+  }
+}
